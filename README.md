@@ -1,2 +1,2 @@
-# TextUtils-React
-This Project was Bootstrapped with Create React App
+# textutils
+ React Course
